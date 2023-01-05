@@ -30,3 +30,12 @@
     align-items: center;
     color: #eabd8a;
 }
+.ToDoItem {
+    background-color: #fff;
+}
+.ToDoRepresentation {
+    list-style-type: circle;
+}
+.ToDoRepresentation li {
+    margin-left: 2px;
+}

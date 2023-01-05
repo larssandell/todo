@@ -1,0 +1,32 @@
+.App {
+    background-color: #ca4432;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+}
+.App-header {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 149px;
+}
+.App-body {
+    background-color: #eabd8a;
+}
+
+.toDoListContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.App-footer {
+    background-color: #ca4432;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #eabd8a;
+}
